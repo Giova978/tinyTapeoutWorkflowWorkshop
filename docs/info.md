@@ -15,6 +15,7 @@ documentacion random
 ## How to test
 
 Explain how to use your project
+Vaya, comparaba seccion a seccion
 
 ## External hardware
 
